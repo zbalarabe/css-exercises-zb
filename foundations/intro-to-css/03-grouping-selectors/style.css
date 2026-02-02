@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.buttonone,
+.buttontwo {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.buttonone {
+    background-color: black;
+    color: white;
+}
+
+.buttontwo {
+    background-color: yellow;
+    color:black;
+}
+
